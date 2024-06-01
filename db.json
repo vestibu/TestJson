@@ -19,33 +19,5 @@
     "startdate": "06/10/2024",
     "enddate": "06/20/2024",
     "duration":  0
-  },
-  {
-    "id": 4,
-    "description": "MS4",
-    "startdate": "07/10/2024",
-    "enddate": "07/20/2024",
-    "duration": 0
-  },
-  {
-    "id": 5,
-    "description": "MS5",
-    "startdate": "08/10/2024",
-    "enddate": "08/20/2024",
-    "duration": 0
-  },
-  {
-    "id": 6,
-    "description": "MS6",
-    "startdate": "09/10/2024",
-    "enddate": "09/20/2024",
-    "duration": 0
-  },
-  {
-    "id": 7,
-    "description": "MS7",
-    "startdate": "10/10/2024",
-    "enddate": "10/20/2024",
-    "duration": 0
   }
 ]
